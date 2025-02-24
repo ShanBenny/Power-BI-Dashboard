@@ -1,6 +1,33 @@
 # Power BI Dashboard: Sales and Product Performance
 
+## Overview
 This repository contains a Power BI dashboard (`Dashboard.pbix`) that provides insights into sales performance, product categories, and order fulfillment metrics. The dashboard is designed to help analyze key business metrics and trends.
+
+## Key Features
+- **Sales Analysis**: Visualize total sales, units sold, and sales by state.
+- **Product Performance**: Analyze sales by product category and average ratings.
+- **Fulfillment Metrics**: Track order status (shipped, unshipped, cancelled).
+
+## Screenshots
+Include screenshots of your dashboard to give visitors a visual preview:
+- **Sales by Ship State**:
+  ![Sales by Ship State](screenshots/sales_by_state.png)
+- **Sales Trendlines**:
+  ![Sales Trendlines](screenshots/sales_trendlines.png)
+
+## How to Use
+1. Download the `.pbix` file and open it in **Power BI Desktop**.
+2. Explore the different pages (Overview, Products, Fulfillment) to analyze the data.
+3. Use filters and slicers to drill down into specific metrics.
+
+## Requirements
+- **Power BI Desktop**: Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+- **Data Source**: Ensure the data source is connected or updated.
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/https://github.com/ShanBenny/Power-BI-Dashboard.git
 
 ## Dashboard Overview
 
